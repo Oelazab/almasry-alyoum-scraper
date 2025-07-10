@@ -19,3 +19,6 @@ By using this code, you acknowledge and agree that:
 - Cache responses to avoid repeated scraping
 - Only scrape publicly available data
 - Consider using official APIs if available
+
+## Applications
+- Collecting datasets for the training of AI models (educational and research).
